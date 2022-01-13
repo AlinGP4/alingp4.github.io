@@ -1,0 +1,3 @@
+- 👋 Hola soy Alin Gabriel
+- 🌱 Estoy estudiando Angular,NodeJs y librerias de Node
+- 📫 Email: alingabrielp4@gmail.com - +32642382801
