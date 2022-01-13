@@ -1,3 +1,3 @@
 - 👋 Hola soy Alin Gabriel
-- 🌱 Estoy estudiando Angular,NodeJs y librerias de Node
+- 🌱 Estoy estudiando Grado Superior en el IES MIRALCAMP - Vila-real
 - 📫 Email: alingabrielp4@gmail.com - +32642382801
