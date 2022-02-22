@@ -1,0 +1,12 @@
+.animation-right {
+    animation: animation-right 0.75s linear;
+}
+
+@keyframes animation-right {
+    from {
+        right: -1200px;
+    }
+    to {
+        right: 0px;
+    }
+}

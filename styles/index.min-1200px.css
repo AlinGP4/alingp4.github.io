@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.box-header {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+.box-nav {
+    margin-top: -60vh;
+    margin-left: 3vw;
+    width: 21%;
+}
+
+.box-nav li {
+    display: inline-block;
+    font-weight: bold;
+    list-style: none;
+}
+
+.box-nav li a {
+    text-decoration: none;
+    font-size: 3em;
+    color: #cccccc;
+    transition: all 1s;
+}
+
+.under-line {
+    background-color: red;
+    height: 5px;
+    width: 10px;
+    transition: all 1s;
+}
+
+.box-nav li a:hover {
+    color: white;
+}
+
+.box-nav li a:hover+.under-line {
+    width: 100%;
+}
+
+.box-header-my-info {
+    position: relative;
+    height: 199px;
+    width: 100vw;
+    font-size: 2.5em;
+    color: white;
+    font-family: 'Lobster', cursive;
+    padding-left: 50px;
+    border-radius: 10px 0px 0px 10px;
+    background-color: orange;
+    box-shadow: rgba(255, 166, 0, 0.12) 0px 54px 55px, rgba(255, 166, 0, 0.12) 0px -12px 30px, rgba(255, 166, 0, 0.12) 0px 4px 6px, rgba(255, 166, 0, 0.12) 0px 12px 13px, rgba(255, 166, 0, 0.12) 0px -3px 5px;
+}
+
+.typewrite {
+    color: white;
+    text-decoration: none;
+}
+
+.type-zone {
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img-AlinGP4 {
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    right: 40px;
+}
+
+@media (min-width: 1200px) {}
